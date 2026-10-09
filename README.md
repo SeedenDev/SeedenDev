@@ -10,15 +10,15 @@ As a self-taught since 2017, I have a long experience in programming, mainly wit
 
 Unless I get a job, I wish to enroll in a Computer Science bachelor degree starting from next year to ensure a CS degree filling the hole in my general computer-related knowledge (fields I never spent time dabbling with), possible internships for professional experiences strengthening my skillset, and focusing more and more in graphics during my free time to build my portfolio around it!
 
-Anyway, hobbiiies => programming ofc, video-games, Japanese culture.
-
-Also HUMAN languages: French native, English surely work-proficiency or more, Japanese I can handle basic conversations.
-
-Socials: 
-- I intend to soon post my works on Twitter and to share my progress on Youtube and Twitch. Stay tuned!
+Anyway,
+<br>- hobbies => programming ofc, video-games, Japanese culture.
+<br>- HUMAN languages => French native, English surely work-proficiency or more, Japanese I can handle basic conversations.
+<!-- yes i don't like the markdown list, the gap between the lines is ugly. -->
+**Socials:**
+<br>=> I intend to soon post my works on Twitter and to share my progress on Youtube and Twitch. Stay tuned!
 
 ### Contact me:
-- `contact@seeden.fr` by email, `seeden_` on Discord, or via my LinkedIn profile.
+=> `contact@seeden.fr` by [email](mailto:contact@seeden.fr), `seeden_` on [Discord](https://discord.com/users/265498780718071810), or via my [LinkedIn profile](https://www.linkedin.com/in/alexis-aubert-98a823273/).
 
 <details>
   <summary>More programming background</summary>
