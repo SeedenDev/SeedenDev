@@ -47,6 +47,6 @@ This is also the reason of why I took this year (2026) off, to focus back on pro
 <!--<details><summary>Showcase</summary>![Screenshot](res/hogl.png)</details> -->
 ### - Completed: [ConsoleWebSocket](https://github.com/SeedenDev/ConsoleWebSocket) (encrypted Websocket using Java w/SpringBoot, RSA, AES, StompJS)
 ### - Functional: [PathfinderAPI](https://github.com/SeedenDev/Java-Prototypes/tree/master/PathfindingAPI) (in Java using A*/Dijkstra/Multi-threading - planning more refactoring in the far future I cannot focus on it rn)
-### - Functional: [Portfolio-Website](https://github.com/SeedenDev/Portfolio-Website) (HTML/SCSS/JS + markdown/i18n - I am not a web designer sorry for your eyes)
+### - Functional: [Portfolio-Website](https://seeden.fr) (HTML/SCSS/JS + markdown/i18n - I am not a web designer sorry for your eyes)
 ### - Paused(WIP): [PlatformerDemo](https://github.com/SeedenDev/PlatformerDemo) (C++/OpenGL small 2D platformer done at some point during my learning process - working but meh)
 #### Feel free to check my other public repositories, but keep in mind some of them are really old, or were created when I began to learn something new and not updated/fixed since, and as such they do not represent my current skills *(for instance, the two C projects I've forgotten about oopsi... I got better with memory management)*.
